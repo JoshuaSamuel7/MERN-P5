@@ -34,7 +34,10 @@ body {
 .navbar a:hover {
     background-color: #575757;
 }
-
+.logo{
+    width: 15vw;
+    height: 15vh;
+}
 .content {
     margin-left: 230px;
     flex: 1;
@@ -324,7 +327,9 @@ section{
         padding: 10px;
         font-size: 1.2rem;
     }
-
+    .logo{
+        width: 30vw;
+    }
     .content {
         margin-left: 0;
     }
